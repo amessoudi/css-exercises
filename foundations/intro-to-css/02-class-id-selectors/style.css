@@ -1,0 +1,19 @@
+.N1, .N3{
+    background-color: hsl(320, 96%, 82%);
+    font-family: "Verdana", "DejaVu Sans", Arial, Helvetica, sans-serif;
+}
+
+#N2{
+    color: #004fe0;
+    font-size: 36px;
+}
+
+.N3{
+    font-size: 24px;
+}
+
+#N4{
+    background-color: hsl(160, 82%, 70%);
+    font-size: 24px;
+    font-weight: bold;
+}
